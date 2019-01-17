@@ -1,2 +1,2 @@
 # akin-aroge.github.io-source
-Source for http://jakevdp.github.io
+Source for https://github.com/akin-aroge/akin-aroge.github.io
