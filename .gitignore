@@ -31,6 +31,9 @@ MANIFEST
 *.manifest
 *.spec
 
+# pelican generated files
+output
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
