@@ -1,0 +1,8 @@
+-  On updating site:
+	- make content as required
+	- run the "make html && make serve" command in the "env_blog" conda environment
+	- run site locally to test (http://localhost:8000/)
+	- copy contents of output folder into the site repo (akin-aroge.github.io) and overwrite as necessary
+	- Do the necessary git pushes (on the source and site repos).
+	
+	
