@@ -1,6 +1,8 @@
 -  On updating site:
-	- make content as required
-	- run the "make html && make serve" command in the "env_blog" conda environment
+	- make content as required in the source folder
+		- for md write directly in the article folder
+		- for jupyter write in jupyter in the downloads folder and make necessary includion in the articles folder
+	- run the "make html && make serve" command in the "env_blog" conda environment and source folder
 	- run site locally to test (http://localhost:8000/)
 	- copy contents of output folder into the site repo (akin-aroge.github.io) and overwrite as necessary
 	- Do the necessary git pushes (on the source and site repos).
